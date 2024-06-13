@@ -2,7 +2,8 @@
 
 
 ## I'm Tochi, a data scientist & machine learning engineer 🤖
-##Passionate about harnessing AI to improve healthcare 🏥
+
+## Passionate about harnessing AI to improve healthcare 🏥
 
 
 I'm driven by the potential of artificial intelligence to revolutionize healthcare. My expertise lies in:
@@ -15,7 +16,9 @@ Natural Language Processing (NLP)
 
 Let's connect! 📲
 Email: obuzortochi@gmail.com
+
 LinkedIn: www.linkedin.com/in/tochi-obuzor
+
 Twitter: @Js_lorddd
 
 Skills 🎯
