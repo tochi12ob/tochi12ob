@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-##i'm Tochi ,a data scientist/ Machine learning engineer . 
-##I am very Passionate about AI in healthcare
-- 🔭 I’m currently working on an interesting NLP project
 
-
+I'm Tochi, a data scientist & machine learning engineer 🤖
+Passionate about harnessing AI to improve healthcare 🏥
+I'm driven by the potential of artificial intelligence to revolutionize healthcare. My expertise lies in:
+Data analysis and visualization
+Machine learning model development
+Natural Language Processing (NLP)
+🔭 Currently, I'm working on an exciting NLP project (Healthcare related , can't share now)
 <!--
 **tochi12ob/tochi12ob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
